@@ -11,6 +11,7 @@ const Teamtable = () => {
       <table className="w-full  border border-black text-center rounded-sm overflow-scroll proj-table  ">
         <thead className="border border-black p-5">
           <tr>
+          <th className="tableHeader  w-1/5"> S.N.</th>
             <th className="tableHeader w-2/5">Name </th>
             <th className="tableHeader w-2/5"> Designation</th>
             <th className="tableHeader  w-1/5"> Area of Expertise</th>
@@ -23,6 +24,7 @@ const Teamtable = () => {
           {team.team.map((team,id)=>{
             return(
               <tr key={id}>
+              <td className="tableBody">{id+1}.</td>
             <td className="tableBody">{team.Name} </td>
             <td className="tableBody text-left">{team.Designation} </td>
             <td className="tableBody">{team.Area}</td>

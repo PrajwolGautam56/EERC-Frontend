@@ -31,7 +31,7 @@ export default function Home() {
             <br></br> <br></br>
             <br></br><br></br>
             <span className="sub-title  sm:text-md lg:text-xl ">
-              Hey there! EERC welcomes you.
+              
             </span>
             <h2 className="title py-4 font-extrabold titleFont   sm:text-6xl md:text-5xl min-[1200px]:text-5xl  tracking-wide">
               Building Resilience, <br /> Protecting our

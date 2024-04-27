@@ -442,7 +442,7 @@ Municipality, Bardia .</li>
      {/* Project 7 */}
      <div className=" rounded-lg shadow-lg overflow-hidden   lg:mt-20 bg-purple-200">
           <img
-            src="images/projects/3.jpg"
+            src="images/projects/7.jpg"
             alt="Project 2"
             className="w-full h-58 object-cover  p-2"
           />
@@ -508,7 +508,7 @@ climate change.</p>
 
         <div className="  rounded-lg shadow-lg overflow-hidden mt-8 bg-blue-100  ">
           <img
-            src="images/projects/4.jpg"
+            src="images/projects/8.jpg"
             alt="Project 2h-[800px]"
             className="w-full h-58 object-cover  p-2"
           />

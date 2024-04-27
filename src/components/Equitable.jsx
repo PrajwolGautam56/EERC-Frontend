@@ -1,13 +1,34 @@
+import { useState } from "react";
 import "../CSS/table.css";
 import equi from "../equi.json"
 import cam from "../equi.json"
+
+
 const Equitable = () => {
+const [show, setShow] = useState(false);
+
+const ShowTable =() => {
+  if (show == true) {
+    setShow(false)
+  }
+    else {
+      setShow(true)
+    }
+  }
+;
+
+  
   
   return (
+
+   
     <div className="p-24 proj">
-      <h2 className="text-center mb-4 text-2xl tracking-tight font-extrabold text-amber-500 dark:text-white ">
-      Office  Equipments 
+      <h2 onClick={ShowTable} className="text-left cursor-pointer mb-4 text-2xl tracking-tight font-extrabold text-amber-500 dark:text-white ">
+      View Office  Equipments 
       </h2>
+
+    {
+      show && (<>
       <div className="proj-table border-spacing-1 border-solid border-2 p-3">
       <table className="w-full  border border-black text-center rounded-sm overflow-scroll proj-table  ">
         <thead className="border border-black p-5">
@@ -76,6 +97,12 @@ const Equitable = () => {
         </tbody>
       </table>
       </div>
+
+      </>)
+
+    }
+     
+     
       
     </div>
   );

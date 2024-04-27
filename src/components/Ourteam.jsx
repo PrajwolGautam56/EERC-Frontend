@@ -1,12 +1,12 @@
 const people = [
     {
-      name: 'Ajay Shrestha',
+      name: 'Ajaya Shrestha',
       role: 'Managing Director',
       imageUrl:'images/team/ajay.jpg',
       url:'https://www.facebook.com/ajaya.shrestha.986'
     },
     {
-        name: 'Purranjan Sapkota',
+        name: 'Puranjan Sapkota',
         role: 'Agriculture and Livelihood Expert',
        
         imageUrl:'images/team/puranjan.jpeg',

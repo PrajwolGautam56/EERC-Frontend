@@ -15,6 +15,7 @@ import Ourteam from "../components/Ourteam";
 import Testimonial from "../components/Testimonial";
 import data from "../data.json";
 import Equitable from "../components/Equitable";
+import Teamtable from "../components/Teamtable";
 
 const About = () => {
   return (
@@ -69,9 +70,11 @@ const About = () => {
 
 
       </div>
-      <Equitable />
+     
 
       <Ourteam />
+      <Teamtable />
+      <Equitable />
       {/* <Testimonial testimonialData={data} /> */}
 
       <FooterWithSocialMediaIcons />
