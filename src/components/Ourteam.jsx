@@ -25,18 +25,40 @@ const people = [
         url:'https://www.facebook.com/hated.person.146'
           
       },
+   
+   
+
       {
         name: 'Avash Poudel',
         role: 'DRRM-CAA Expert',
         imageUrl:'images/team/avash.jpg',
         url:'https://www.facebook.com/avash.env'
               },
+              {
+                name: 'Mr. Nawraj Sapkota',
+                role: 'NRM/CCA/DRRM Expert   ',
+                imageUrl:'images/team/nawaraj.jpg',
+                url:'https://www.facebook.com/'
+            },
+            {
+                name: 'Ms. Pragya Dhakal Neupane',
+                role: 'Development Planning Expert ',
+                imageUrl:'images/team/pragya.png',
+                url:'https://www.facebook.com/'
+            },
       {
         name: 'Tara Ale',
         role: 'Environment Researcher ',
         imageUrl:'images/team/tara.jpg',
         url:'https://www.facebook.com/tara.ale.5'
         },
+        {
+            name: 'Ms. Rakshya Neupane',
+            role: 'Environment Expert ',
+            imageUrl:'images/team/rakshya.jpg',
+            url:'https://www.facebook.com/'
+        },
+        
       
       
     // More people...
