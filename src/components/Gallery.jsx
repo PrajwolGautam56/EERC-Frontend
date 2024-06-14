@@ -11,68 +11,68 @@ function Gallery() {
 </br>
 <div className="grid grid-cols-2 md:grid-cols-3 gap-4 py-2">
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/1.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/1.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/2.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/2.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/3.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/3.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/4.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/4.jpg" alt="" />
     </div>
     
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/6.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/6.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/7.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/7.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/8.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/8.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/9.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/9.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/10.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/10.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/11.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/11.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/12.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/12.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/13.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/13.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/14.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/14.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/15.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/15.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/16.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/16.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/17.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/17.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/18.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/18.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/19.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/19.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/20.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/20.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/24.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/24.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="/public/images/gallery/22.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/22.jpg" alt="" />
     </div>
     
      
