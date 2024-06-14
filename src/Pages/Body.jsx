@@ -10,7 +10,7 @@ import Team from "./Team";
 import Newsletter from "./Newsletter";
 import Test from "./Test";
 
-function Body() {
+
   const appRouter = createBrowserRouter([
    
 
@@ -58,11 +58,7 @@ function Body() {
 
     
   ]);
-  return (
-    <div>
-      <RouterProvider router={appRouter} />
-    </div>
-  );
-}
+  
 
-export default Body;
+
+export default appRouter;
