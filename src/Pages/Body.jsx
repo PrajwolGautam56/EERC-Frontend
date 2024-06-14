@@ -12,11 +12,7 @@ import Test from "./Test";
 
 function Body() {
   const appRouter = createBrowserRouter([
-    {
-      path: "/",
-      element: <Home />,
-      errorElement: <Error />,
-    },
+   
 
     {
       path: "/about",
@@ -39,20 +35,25 @@ function Body() {
       element: <Newsletter />,
     },
     {
-      path: "gallery",
+      path: "/gallery",
 
       element: <Gallerypage />,
     },
 
     {
-      path: "contact",
+      path: "/contact",
 
       element: <Contact />,
     },
     {
-      path: "test",
+      path: "/test",
 
       element: <Test />,
+    },
+    {
+      path: "/",
+      element: <Home />,
+      errorElement: <Error />,
     },
 
     
