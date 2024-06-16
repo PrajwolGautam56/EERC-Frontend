@@ -4,7 +4,7 @@ const Teamtable = () => {
   
   return (
     <div className="p-24 proj">
-      <h2 className="text-center mb-4 text-2xl tracking-tight font-extrabold text-amber-500 dark:text-white ">
+      <h2 className="text-center mb-4 text-2xl tracking-tight font-extrabold text-amber-500 dark:text-white pb-12 ">
         Team and Experts
       </h2>
       <div className="proj-table border-spacing-1 border-solid border-2 p-3">

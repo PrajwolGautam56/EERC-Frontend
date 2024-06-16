@@ -26,7 +26,7 @@ export default function Card() {
 					<ul>
 						<li className="mt-2">
 							 
-							<FaPhoneAlt /> +977- 9832222
+							<FaPhoneAlt /> +977-9841525256
 						</li>
 						<li className="mt-2">
 							<span><i className=" "></i> </span>
@@ -38,9 +38,8 @@ export default function Card() {
 							 
                             <FaLocationDot />
 Lalitpur, 
-							<span className="pl-4">
 								Kathmandu
-							</span>
+							
 						</li>
 						{/* <li className="mt-2">
 							<span><i className="fa-solid fa-map-pin mr-2">Follow Us , <BsFacebook /></i>

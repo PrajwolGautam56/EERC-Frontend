@@ -80,7 +80,7 @@ export default function Clients() {
     return (
       <div className="bg-white py-24 sm:py-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <h2 className="text-center font-bold text-2xl text-amber-500">
+          <h2 className="text-center font-bold text-2xl text-amber-500 pb-8">
             Major Clients
           </h2>
           

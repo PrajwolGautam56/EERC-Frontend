@@ -2,7 +2,7 @@ import React from 'react'
 
 function Gallery() {
   return (
-    <div className='py-9 bg-slate-200'>
+    <div className='py-9 '>
     <div className="container mx-auto text-center py-5 "> 
         <h1 className="font-sans Montserrat  font-bold text-2xl  text-amber-500		  mb-8">Our Project's Gallery</h1>
 </div>
@@ -11,7 +11,7 @@ function Gallery() {
 </br>
 <div className="grid grid-cols-2 md:grid-cols-3 gap-4 py-2">
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="images/gallery/1.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/1.JPG" alt="" />
     </div>
     <div>
         <img className="h-auto max-w-full rounded-lg" src="images/gallery/2.jpg" alt="" />
@@ -36,13 +36,13 @@ function Gallery() {
         <img className="h-auto max-w-full rounded-lg" src="images/gallery/9.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="images/gallery/10.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/10.JPG" alt="" />
     </div>
     <div>
         <img className="h-auto max-w-full rounded-lg" src="images/gallery/11.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="images/gallery/12.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/12.JPG" alt="" />
     </div>
     <div>
         <img className="h-auto max-w-full rounded-lg" src="images/gallery/13.jpg" alt="" />
@@ -66,13 +66,13 @@ function Gallery() {
         <img className="h-auto max-w-full rounded-lg" src="images/gallery/19.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="images/gallery/20.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/20.JPG" alt="" />
     </div>
     <div>
         <img className="h-auto max-w-full rounded-lg" src="images/gallery/24.jpg" alt="" />
     </div>
     <div>
-        <img className="h-auto max-w-full rounded-lg" src="images/gallery/22.jpg" alt="" />
+        <img className="h-auto max-w-full rounded-lg" src="images/gallery/22.JPG" alt="" />
     </div>
     
      

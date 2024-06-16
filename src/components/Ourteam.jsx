@@ -35,16 +35,16 @@ const people = [
         url:'https://www.facebook.com/avash.env'
               },
               {
-                name: 'Mr. Nawraj Sapkota',
+                name: 'Nawraj Sapkota',
                 role: 'NRM/CCA/DRRM Expert   ',
                 imageUrl:'images/team/nawaraj.jpg',
-                url:'https://www.facebook.com/'
+                url:'https://www.facebook.com/snwraj'
             },
             {
-                name: 'Ms. Pragya Dhakal Neupane',
+                name: 'Pragya Dhakal Neupane',
                 role: 'Development Planning Expert ',
                 imageUrl:'images/team/pragya.png',
-                url:'https://www.facebook.com/'
+                url:'https://www.facebook.com/pragya.nepali.7 '
             },
       {
         name: 'Tara Ale',
@@ -53,7 +53,7 @@ const people = [
         url:'https://www.facebook.com/tara.ale.5'
         },
         {
-            name: 'Ms. Rakshya Neupane',
+            name: 'Rakshya Neupane',
             role: 'Environment Expert ',
             imageUrl:'images/team/rakshya.jpg',
             url:'https://www.facebook.com/'
@@ -75,7 +75,7 @@ export default function Ourteam() {
 
             <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
                 <div className="mx-auto mb-8 max-w-screen-sm lg:mb-16">
-                    <h2 className="mb-4 text-2xl tracking-tight font-extrabold text-amber-500 dark:text-white">Our Team</h2>
+                    <h2 className="mb-4 text-2xl tracking-tight font-extrabold text-amber-500 dark:text-white pb-4">Our Team</h2>
                     {/* <p className="font-light text-gray-500 sm:text-xl dark:text-gray-400">Meet Out Team</p> */}
                 </div> 
 

@@ -23,7 +23,7 @@ const ShowTable =() => {
 
    
     <div className="p-24 proj">
-      <h2 onClick={ShowTable} className="text-left cursor-pointer mb-4 text-2xl tracking-tight font-extrabold text-amber-500 dark:text-white ">
+      <h2 onClick={ShowTable} className="border-spacing-1  text-center  cursor-pointer mb-4 text-2xl tracking-tight font-extrabold text-amber-500 dark:text-white ">
       View Office  Equipments 
       </h2>
 
